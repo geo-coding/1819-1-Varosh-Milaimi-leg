@@ -1,12 +1,4 @@
-Milaim Derguti 
-1012868126
-01819-1
-P-72217011-01819-1
-O-72217011-01819-1
-Rr. "Haxhi Osmani"
-Varosh
-Ferizaj
-
+# katet
 
 | kati | sip |
 | -------------- | --------------- |
