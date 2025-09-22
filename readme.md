@@ -15,10 +15,10 @@
 Milaim Derguti 
 1012868126
 01819-1
-+38344201826
-Rr. "Haxhi Osmani"
 Varosh
 Ferizaj
++38344201826
+Rr. "Haxhi Osmani"
 VIJA E POSHTME
 
 ```
